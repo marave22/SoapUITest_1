@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5a919657-e93d-4d14-a6b6-17c869d5e962" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -17,7 +18,8 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="SYNC" />
   </component>
   <component name="ProjectId" id="1VBw6bYP0CmDFurEf7Vt8Qt32k3" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -196,10 +198,10 @@
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="2660" y="275" key="FileChooserDialogImpl/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1577199714946" />
-    <state x="2750" y="415" width="264" height="209" key="Github.ShareDialog" timestamp="1577258165741">
+    <state x="2750" y="415" width="264" height="209" key="Github.ShareDialog" timestamp="1577259510619">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="2750" y="415" width="264" height="209" key="Github.ShareDialog/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1577258165741" />
+    <state x="2750" y="415" width="264" height="209" key="Github.ShareDialog/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1577259510619" />
     <state width="1877" height="415" key="GridCell.Tab.0.bottom" timestamp="1577113679122">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
@@ -220,10 +222,10 @@
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="2360" y="95" key="SettingsEditor/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1577189600373" />
-    <state x="2472" y="250" key="Vcs.Push.Dialog.v2" timestamp="1577258731406">
+    <state x="2472" y="250" key="Vcs.Push.Dialog.v2" timestamp="1577259526996">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="2472" y="250" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1577258731406" />
+    <state x="2472" y="250" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1577259526996" />
     <state x="2262" y="96" key="new project wizard" timestamp="1577199724005">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
