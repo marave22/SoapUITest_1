@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="All Test Suite" duration-ms="5820" started-at="2019-12-24T16:50:26 AMT" finished-at="2019-12-24T16:50:31 AMT">
+    <groups>
+    </groups>
+    <test name="C:/Users/Mariam/Desktop/SoapUI projects/SoapUITest(1)" duration-ms="5820" started-at="2019-12-24T16:50:26 AMT" finished-at="2019-12-24T16:50:31 AMT">
+      <class name="Rest.restRunner2">
+        <test-method status="PASS" signature="RestTest2()[pri:0, instance:Rest.restRunner2@33c7e1bb]" name="RestTest2" duration-ms="1254" started-at="2019-12-24T16:50:29 AMT" finished-at="2019-12-24T16:50:30 AMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RestTest2 -->
+      </class> <!-- Rest.restRunner2 -->
+      <class name="Soap.testRunner">
+        <test-method status="PASS" signature="SoapTest()[pri:0, instance:Soap.testRunner@34c4973]" name="SoapTest" duration-ms="1302" started-at="2019-12-24T16:50:30 AMT" finished-at="2019-12-24T16:50:31 AMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SoapTest -->
+      </class> <!-- Soap.testRunner -->
+      <class name="Soap.testRunner2">
+        <test-method status="PASS" signature="singleTest()[pri:0, instance:Soap.testRunner2@52feb982]" name="singleTest" duration-ms="330" started-at="2019-12-24T16:50:31 AMT" finished-at="2019-12-24T16:50:31 AMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- singleTest -->
+      </class> <!-- Soap.testRunner2 -->
+      <class name="Rest.restRunner">
+        <test-method status="PASS" signature="RestTest()[pri:0, instance:Rest.restRunner@30a3107a]" name="RestTest" duration-ms="2906" started-at="2019-12-24T16:50:26 AMT" finished-at="2019-12-24T16:50:29 AMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RestTest -->
+      </class> <!-- Rest.restRunner -->
+    </test> <!-- C:/Users/Mariam/Desktop/SoapUI projects/SoapUITest(1) -->
+  </suite> <!-- All Test Suite -->
+</testng-results>

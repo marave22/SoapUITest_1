@@ -1,0 +1,10 @@
+2019-12-24 16:50:26,345 WARN  [SoapUI] Missing folder [C:\Users\Mariam\Desktop\SoapUI projects\SoapUITest(1)\ext] for external libraries
+2019-12-24 16:50:26,346 INFO  [DefaultSoapUICore] Creating new settings at [C:\WINDOWS\system32\config\systemprofile\soapui-settings.xml]
+2019-12-24 16:50:26,948 INFO  [PluginManager] 0 plugins loaded in 2 ms
+2019-12-24 16:50:26,948 INFO  [DefaultSoapUICore] All plugins loaded
+2019-12-24 16:50:27,479 INFO  [WsdlProject] Loaded project from [file:/C:/Users/Mariam/Downloads/LibraryAPI.xml]
+2019-12-24 16:50:29,089 INFO  [WsdlProject] Loaded project from [file:/C:/Users/Mariam/Downloads/LibraryAPI.xml]
+2019-12-24 16:50:30,338 INFO  [log] hey I am the second Testsuite
+2019-12-24 16:50:30,376 INFO  [WsdlProject] Loaded project from [file:/C:/Users/Mariam/Downloads/Employee.xml]
+2019-12-24 16:50:31,640 INFO  [log] moon
+2019-12-24 16:50:31,646 INFO  [WsdlProject] Loaded project from [file:/C:/Users/Mariam/Downloads/Employee.xml]

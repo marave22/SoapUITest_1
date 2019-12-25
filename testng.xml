@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="C:/Users/Mariam/Desktop/SoapUI projects/SoapUITest(1)">
+        <classes>
+            <class name="Rest.restRunner"/>
+            <class name="Rest.restRunner2"/>
+            <class name="Soap.testRunner"/>
+            <class name="Soap.testRunner2"/>
+        </classes>
+    </test>
+</suite>
